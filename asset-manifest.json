@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Flex_Business_theme_landing_page_react/static/css/main.dda2986d.css",
+    "main.js": "/Flex_Business_theme_landing_page_react/static/js/main.c008b6ab.js",
+    "static/js/787.6606bfd5.chunk.js": "/Flex_Business_theme_landing_page_react/static/js/787.6606bfd5.chunk.js",
+    "static/media/gallery-1.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-1.394e2e819cd6760fbfae.jpg",
+    "static/media/gallery-4.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-4.1f76a3501cd93ff4080f.jpg",
+    "static/media/banner.jpg": "/Flex_Business_theme_landing_page_react/static/media/banner.738e824cbb9f77ac01ab.jpg",
+    "static/media/gallery-7.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-7.e8eff05a9bf54fd2691e.jpg",
+    "static/media/achieve_banner.jpg": "/Flex_Business_theme_landing_page_react/static/media/achieve_banner.6c5ff7e8e5e18d85073f.jpg",
+    "static/media/gallery-2.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-2.1ead4c2d4fcdc8804877.jpg",
+    "static/media/gallery-5.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-5.484043e07b7be6ac911d.jpg",
+    "static/media/gallery-6.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-6.4947666c53c4f29b832a.jpg",
+    "static/media/gallery-3.jpg": "/Flex_Business_theme_landing_page_react/static/media/gallery-3.e13c2b336d3dd16db9ed.jpg",
+    "static/media/user.png": "/Flex_Business_theme_landing_page_react/static/media/user.c920752422c11377083e.png",
+    "static/media/triangle-arrow.png": "/Flex_Business_theme_landing_page_react/static/media/triangle-arrow.c2ef59e69c7bbfab7fc4.png",
+    "index.html": "/Flex_Business_theme_landing_page_react/index.html",
+    "main.dda2986d.css.map": "/Flex_Business_theme_landing_page_react/static/css/main.dda2986d.css.map",
+    "main.c008b6ab.js.map": "/Flex_Business_theme_landing_page_react/static/js/main.c008b6ab.js.map",
+    "787.6606bfd5.chunk.js.map": "/Flex_Business_theme_landing_page_react/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda2986d.css",
+    "static/js/main.c008b6ab.js"
+  ]
+}
